@@ -9,7 +9,7 @@ Single-line comments in bash start with the # symbol. Anything following this sy
 # This is a single-line comment in Bash
 echo "Hello, you are learning Bash Scripting on DAREY.IO!" # This is also a comment, following a command
 ```
-![single-line comment](assets/singleline.png)
+
 The above illustration show a single-line comment
 ## Using Muiltiple Single-Line Comments
 ```bash
@@ -18,7 +18,7 @@ The above illustration show a single-line comment
 # is prefixed with a # symbol.
 echo "Here is an actual code that gets executed"
 ```
-![muilti-single-line](assets/muiltisingle.png)
+
 This approach is straightforward and is commonly used for adding brief descriptions or notes spanning muiltiple lines
 
 ## Best Practices for Commenting:
@@ -26,4 +26,5 @@ This approach is straightforward and is commonly used for adding brief descripti
 - Maintainability: Keep comments updated as you modify the code to ensure they remain relevant and helpful.
 - Usefullness: Comments on complex or non-obvious parts of the script to provide insights into your thought process and decision-making
 - Avoid Overcommenting: Don't comment on every line of code, especially if the code is self-explanatory. Focus on parts that benefit from additional explanation.
+
 It is worth noting that Bash and Shell are similar in functionality, which is why their names are often used interchangeably, despite being distinct interpreter
