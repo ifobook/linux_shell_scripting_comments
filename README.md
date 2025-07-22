@@ -18,6 +18,9 @@ The above illustration show a single-line comment
 # is prefixed with a # symbol.
 echo "Here is an actual code that gets executed"
 ```
+![shell script](assets/vim.png)
+![hand-on shell comment](assets/test.png)
+
 
 This approach is straightforward and is commonly used for adding brief descriptions or notes spanning muiltiple lines
 
